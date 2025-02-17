@@ -35,4 +35,5 @@ I plan to add more tips, new challenges, and location-based helpline numbers to 
 ## Resources 
 
 I have used the mit app tutorial https://appinventor.mit.edu/explore/ai2/tutorials
+
 Also chatgpt https://chatgpt.com/?model=o3-mini-high
