@@ -24,7 +24,9 @@ Location Sensor: To display the user’s location on the Emergency Helplines scr
 
 ## More About App
 
-Check links :- https://github.com/nic-dgl104-winter-2025/project-1-mit-app-harmanpreet09/wiki/Developer-Documentation
+Check links :- 
+
+https://github.com/nic-dgl104-winter-2025/project-1-mit-app-harmanpreet09/wiki/Developer-Documentation
 
 https://github.com/nic-dgl104-winter-2025/project-1-mit-app-harmanpreet09/wiki/User-Documentation
 
