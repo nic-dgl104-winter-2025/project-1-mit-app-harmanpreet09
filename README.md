@@ -22,6 +22,10 @@ TinyDB: For saving user data like call history.
 
 Location Sensor: To display the user’s location on the Emergency Helplines screen.
 
+## More About App
+
+Check links :- 
+
 ## How I Built It
 Design: I created screens like the main menu, self-care tips, mental health topics, daily challenges, and emergency helplines using buttons, labels, and layouts.
 
