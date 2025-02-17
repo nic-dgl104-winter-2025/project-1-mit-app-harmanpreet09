@@ -1,5 +1,5 @@
 # MindCare App
-## Over view
+## Overview
 MindCare is a mobile app built with MIT App Inventor to promote mental well-being. The app offers daily self-care tips, mental health information, daily challenges, and emergency helplines to support users in their mental health journey.
 
 ## Features
