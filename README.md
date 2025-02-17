@@ -24,7 +24,8 @@ Location Sensor: To display the user’s location on the Emergency Helplines scr
 
 ## More About App
 
-Check links :- 
+Check links :- https://github.com/nic-dgl104-winter-2025/project-1-mit-app-harmanpreet09/wiki/Developer-Documentation
+
 
 ## How I Built It
 Design: I created screens like the main menu, self-care tips, mental health topics, daily challenges, and emergency helplines using buttons, labels, and layouts.
